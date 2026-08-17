@@ -63,20 +63,23 @@ The dataset is required to run the recommendation system.
 The system first checks whether multiple songs have the same title and allows the user to select the correct song.
 
 ## User Input
-
+```text
 Enter a song: Wake Me Up
 Enter your preferred language for recommendation: english
 Enter the number of recommendations you want: 5
-
+```
+```text
 Multiple Songs Found
 1 - Wake Me Up Avicii
 2 - Wake Me Up TWICE
-
+```
+```text
 Selected song:
 Song name :  Wake Me Up
 Artist name :  Avicii
 Language :  english
-
+```
+```text
 Recommended Songs:
 
 1 - What Goes Around… - House of Shakira - English - 98.2
@@ -84,3 +87,4 @@ Recommended Songs:
 3 - Fade Into Darkness - Vocal Radio Mix - Avicii - English - 96.44
 4 - Beauty And A Beat - Justin Bieber, Nicki Minaj - English - 96.11
 5 - The Nights - Avicii - English - 95.42
+```
