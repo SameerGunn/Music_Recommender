@@ -57,3 +57,30 @@ The dataset is stored locally as `spotify_tracks.csv` and is not included in thi
 https://www.kaggle.com/datasets/gauthamvijayaraj/spotify-tracks-dataset-updated-every-week
 
 The dataset is required to run the recommendation system.
+
+## Example
+
+The system first checks whether multiple songs have the same title and allows the user to select the correct song.
+
+## User Input
+
+Enter a song: Wake Me Up
+Enter your preferred language for recommendation: english
+Enter the number of recommendations you want: 5
+
+Multiple Songs Found
+1 - Wake Me Up Avicii
+2 - Wake Me Up TWICE
+
+Selected song:
+Song name :  Wake Me Up
+Artist name :  Avicii
+Language :  english
+
+Recommended Songs:
+
+1 - What Goes Around… - House of Shakira - English - 98.2
+2 - Forever & Always (Taylor's Version) - Taylor Swift - English - 96.59
+3 - Fade Into Darkness - Vocal Radio Mix - Avicii - English - 96.44
+4 - Beauty And A Beat - Justin Bieber, Nicki Minaj - English - 96.11
+5 - The Nights - Avicii - English - 95.42
